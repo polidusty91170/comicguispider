@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/comicguispider)
+[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/MSh5hyCBNIQK06SKc)
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/comicguispider)
+[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/MSh5hyCBNIQK06SKc)
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/comicguispider)
+[![下载 Spider 套件](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://share.google/MSh5hyCBNIQK06SKc)
 
 **版本 2026.05 MANGA** — *定义您的二次元主权。* 👑
 
